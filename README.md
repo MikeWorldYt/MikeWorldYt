@@ -2,7 +2,8 @@
 About me: 
 Im Mike, Im UX Designer SemiSenior and learn Front-end Web Development
 
-- 🌱 I’m currently learning React, Zustand and Tailwind CSS
+- 🚀 I’m currently working on React, Tailwind CSS & MySQL
+- 🌱 I’m currently learning Zustand and AWS
 
 
 <!--
