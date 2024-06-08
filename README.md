@@ -16,6 +16,7 @@ Technologies Skill:
 ![css-3-svgrepo-com](https://github.com/MikeWorldYt/MikeWorldYt/assets/118069844/df44fd64-0cdd-463b-b2d9-f6faa86d8ad1)
 ![js-svgrepo-com](https://github.com/MikeWorldYt/MikeWorldYt/assets/118069844/25762ff9-81a6-4ff1-8e4f-251a1051e402)
 ![react-svgrepo-com](https://github.com/MikeWorldYt/MikeWorldYt/assets/118069844/43c5dda1-26a9-4706-9b14-cc2203ba425c)
+![python-svgrepo-com](https://github.com/MikeWorldYt/MikeWorldYt/assets/118069844/c2654edd-4055-4703-8538-44d0fa1ff8fb)
 ![mysql-svgrepo-com](https://github.com/MikeWorldYt/MikeWorldYt/assets/118069844/44885f37-7294-46f6-a67c-42ce27278d92)
 
 Application Skill:
