@@ -1,4 +1,7 @@
 ### Hi there 👋
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/waving.gif"
+       alt="wave" height="40"/></a>
+
 About me: 
 Im Mike, Im UX Designer SemiSenior and learn Front-end Web Development
 
@@ -16,3 +19,4 @@ Im Mike, Im UX Designer SemiSenior and learn Front-end Web Development
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
